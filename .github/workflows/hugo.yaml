@@ -53,7 +53,6 @@ jobs:
     steps:
       - name: Publish to GH Pages
         id: deployment
-        uses: actions/deploy-pages@v3
         if: github.ref == 'refs/heads/main'
         run: |
           cp -R public/* ${GITHUB_WORKSPACE}/built-site/
