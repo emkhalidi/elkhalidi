@@ -1,4 +1,0 @@
-baseURL = 'https://emkhalidi.github.io/elkhalidi/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'blowfish'
