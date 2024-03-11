@@ -13,7 +13,7 @@ author:
 
 Welcome, aspiring data scientists! In this guide, we'll embark on a journey through the essential SQL concepts that will empower you to wield the powers of data manipulation with finesse. From the foundational SELECT statements to advanced techniques like window functions and performance optimization, we'll cover it all. So, grab your wands (or keyboards) and let's dive in!
 
-## 1. SELECT Statements
+### 1. SELECT Statements
 
 The SELECT statement is the bread and butter of SQL, allowing us to retrieve data from the database. Let's start with a simple SELECT query:
 
@@ -26,7 +26,7 @@ But what if we only want specific columns?
 SELECT name, email FROM customers;
 ```
 
-## 1. Joins
+### 2. Joins
 
 Combining data from multiple tables is a common task in SQL. Let's learn about different types of joins with an example using customers and orders tables:
 
