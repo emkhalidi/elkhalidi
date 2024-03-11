@@ -1,7 +1,7 @@
 ---
 title: "Mastering SQL for Data Scientists: A Comprehensive Guide"
 description: "Welcome, fellow data aficionados! Prepare to embark on a thrilling expedition through the realm of SQL mastery. In this enlightening blog post, I'll unveil the fascinating journey I've undertaken as a data scientist, delving deep into the intricacies of SQL. Join me as I navigate the winding pathways of SELECT statements, the enchanting world of JOINs, and the powerful magic of GROUP BY and aggregation functions. From the humble beginnings of data querying to the mastery of advanced techniques like window functions and performance optimization, I'll guide you through each step of the way. Get ready to unlock the secrets of SQL and empower your data analysis endeavors like never before!"
-categories: ["Data Science","SQL",]
+categories: ["Data Science","SQL"]
 tags: ["SQL","Database","Data Science","Data Analysis"]
 #externalUrl: ""
 date: 2024-03-11
