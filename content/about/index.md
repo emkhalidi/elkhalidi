@@ -20,16 +20,14 @@ showAuthor: true
 layoutBackgroundHeaderSpace: false
 ---
 
-My name is Tyler 👋, but I go by Zaney online. I have been using Linux for years now and really enjoy what the ecosystem has to offer. I create videos on my experience with Linux, share my configuration files, and try to share what I've learned with anyone in the community.
+Hey there! 👋 I'm El Khalidi, a seasoned data scientist with a burning passion for programming. With a robust background in mathematics and statistics, backed by a BSc in Economics and an MSc in Actuarial Science, I've spent years delving into the intricacies of data analysis and predictive modeling.
 
+In my journey as a data scientist, I've honed my skills across a spectrum of tools and technologies. From wielding Excel and SQL with precision to harnessing the power of Python 🐍, R, Tableau, and PowerBi 📊, I've navigated complex datasets and extracted actionable insights to drive business growth 📈 and innovation.
 
-I am an avid [Hyprland](https://hyprland.org/) user and have for a long time enjoyed using tiling window managers. I enjoy tinkering with things and having a really polished experience. When I first really got interested in learning Linux, it was because of people who had systems that looked like mine. So hopefully I can peek your interest in Linux & make the process of getting to where I am much, much simpler!
+But my fascination with technology extends beyond the realm of data science. I find joy in the art of programming itself, with a particular interest in C++. Whether it's exploring game 🎮 mechanics or diving into software development, I'm constantly seeking new challenges to expand my programming prowess.
 
-I share my [dotfiles](https://gitlab.com/Zaney/dotfiles), the configuration files for UNIX systems, so anyone who would like to look under the hood of my system can. Want to know how I theme a certain application? It's there. What is that thing I use to copy emoji's into the clipboard? Explained [there](https://gitlab.com/Zaney/dotfiles/-/blob/main/.local/bin/emopicker9000) too.
+Through my work in data science and programming, I've come to appreciate the creative potential of technology. Whether it's building predictive algorithms or crafting elegant code 🧑‍💻, I'm driven by a desire to push the boundaries of what's possible and bring innovative solutions to life.
 
+In the spirit of collaboration and continuous learning, I'm always eager to connect with like-minded individuals who share my passion for data science and programming. Whether you're a fellow enthusiast looking to exchange ideas or someone eager to explore the exciting possibilities of technology, feel free to reach out!
 
-Even though, I have gone through a lot of work to make my configuration something that almost anyone can setup and use. It is designed to be a template for you to build off of - a starting point if you will. I personally believe no operating system is truly a _"one size fits all"_ solution. The programs and configs for each, that make up a system is what really decides whether or not you fall in love with it.
-
-
-
-Feel free to contact me by email, on Discord, or over on Mastodon.
+Whether it's via email or LinkedIn, I'm here to connect, collaborate, and embark on new adventures in the ever-evolving world of data science and programming.
