@@ -4,7 +4,7 @@ date: 2023-11-27
 draft: false
 
 showDate : false
-showDateUpdated : false
+showDateUpdated : true
 showHeadingAnchors : false
 showPagination : false
 showReadingTime : false
@@ -19,7 +19,7 @@ showLikes: false
 layoutBackgroundHeaderSpace: false
 ---
 
-I try to stay busy learning new skills and the best way to do that is to make something. These are my projects that I am working on or have finished. The goal would be to have this list filled with websites I have made for other creators out there!
+I try to stay busy learning new skills and the best way to do that is to make something. These are my projects that I am working on or have finished. The goal would be to have this list filled with projects that could help others learn the same skills!
 
 <table>
     <thead>
@@ -32,22 +32,22 @@ I try to stay busy learning new skills and the best way to do that is to make so
     </thead>
     <tbody>
          <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="myeyes.jpg"/></td>
-            <td>Dotfiles</td>
-            <td>A beautiful, fast, and modular config for Hyprland designed for hidpi screens.</td>
-            <td><a target="_blank" href="https://gitlab.com/Zaney/dotfiles">repo</a></td>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="snake.png"/></td>
+            <td>Snake</td>
+            <td>An attempt to make the snake game using pygame.</td>
+            <td><a target="_blank" href="https://github.com/emkhalidi/snake-game">repo</a></td>
         </tr>
         <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="joshprofilepic.jpg"/></td>
-            <td>Rogers Mortgage Group</td>
-            <td>A beautifully simple mortgage website made with pure HTML & CSS.</td>
-            <td><a target="_blank" href="https://rogersmortgagegroup.com">site</a></br><a target="_blank" href="https://gitlab.com/Zaney/rogersmortgage">repo</a></td>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="customer-segmentation.png"/></td>
+            <td>Customer Segmentation</td>
+            <td>Exploring customer segmentation through the application of both k-means clustering and DBSCAN techniques.</td>
+            <td><a target="_blank" href="https://github.com/emkhalidi/customer-segmentation">repo</a></td>
         </tr>
          <tr>
-            <td><img class="customEntitityAlbum" style="background-color:transparent" src="openpicom.png"/></td>
-            <td>Open-Picom</td>
-            <td>A fork of Pijulius's Picom, with great animations, that has been modified to build on OpenBSD.</td>
-            <td><a target="_blank" href="https://gitlab.com/Zaney/picom">repo</a></td>
+            <td><img class="customEntitityAlbum" style="background-color:transparent" src="ab-testing.jpg"/></td>
+            <td>A/B testing</td>
+            <td>A step-by-step guide of how to design and analyse an A/B test experiment in Python.</td>
+            <td><a target="_blank" href="https://github.com/emkhalidi/ab-testing-new-webpage-design/">repo</a></td>
         </tr>
     </tbody>
 </table>
