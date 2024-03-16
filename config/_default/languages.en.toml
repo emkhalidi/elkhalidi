@@ -16,7 +16,7 @@ title = "El Khalidi"
 [author]
   name = "El Khalidi"
   image = "img/author.jpg"
-  headline = "I'm interested in everything tech"
+  headline = "Unleashing Data's Potential, One Line of Code at a Time!"
   bio = "Data scientist by day, programming enthusiast by night. Rocking the world of data science with a passion for programming languages and innovative technologies. You'll often find me immersed in the world of Python, crafting predictive models and uncovering insights from data. When I'm not crunching numbers, I'm diving into the depths of C++ and exploring the intricacies of game mechanics."
   links = [
     { email = "mailto:e.khalidi@outlook.com" },
