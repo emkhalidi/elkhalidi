@@ -6,7 +6,7 @@ categories: ["Software","Tools","Web"]
 tags: ["Hugo","Website","Review","Development"]
 #externalUrl: ""
 date: 2023-11-27
-draft: false
+draft: true
 author:
   - El Khalidi
 ---
