@@ -6,7 +6,7 @@ categories: ["Software","Tools","Web","How To"]
 tags: ["Hugo","Website","Tutorial","Development","Gitlab"]
 #externalUrl: ""
 date: 2023-11-27
-draft: false
+draft: true
 author:
   - El Khalidi
 ---
