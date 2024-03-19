@@ -6,7 +6,7 @@ categories: ["Company","Hardware","Drama"]
 tags: ["Scandal","Librem","Purism"]
 #externalUrl: ""
 date: 2023-12-03
-draft: false
+draft: true
 author:
   - El Khalidi
 ---
