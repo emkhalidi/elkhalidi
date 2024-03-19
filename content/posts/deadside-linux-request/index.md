@@ -6,7 +6,7 @@ categories: ["Opinion","Gaming"]
 tags: ["Linux","Deadside"]
 #externalUrl: ""
 date: 2023-11-27
-draft: false
+draft: true
 author:
   - El Khalidi
 ---
