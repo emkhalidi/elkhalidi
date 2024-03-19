@@ -1,5 +1,5 @@
 ---
-title: "Linux File System: A comprehensive guide"
+title: "Understanding the Linux File System"
 description: "I wanted to write this Linux file system guide to clarify the logic behind file organization in Linux, aiming to empower readers to navigate and manage their systems more effectively."
 summary: "I wanted to write this Linux file system guide to clarify the logic behind file organization in Linux, aiming to empower readers to navigate and manage their systems more effectively."
 categories: ["Linux","File System","Unix"]
